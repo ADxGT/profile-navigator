@@ -1,0 +1,58 @@
+{
+  "profiles": [
+    {
+      "id": "64d3",
+      "name": "Aditya Gite",
+      "photo": "/adityaphoto.jpg",
+      "description": "Frontend Development",
+      "address": "Pune, India",
+      "contact": "adityagite9860@gmail.com",
+      "interests": "React"
+    },
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "description": "Frontend Developer",
+      "address": "New York, NY",
+      "contact": "john.doe@example.com",
+      "interests": "React, UI/UX"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "",
+      "description": "UX Designer",
+      "address": "San Francisco, CA",
+      "contact": "jane.smith@example.com",
+      "interests": "Figma, Accessibility"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Mehta",
+      "photo": "https://randomuser.me/api/portraits/men/75.jpg",
+      "description": "Full Stack Engineer",
+      "address": "Delhi, India",
+      "contact": "rahul.mehta@example.com",
+      "interests": "Node.js, MongoDB"
+    },
+    {
+      "id": 4,
+      "name": "Ayesha Khan",
+      "photo": "https://randomuser.me/api/portraits/women/45.jpg",
+      "description": "Mobile App Developer",
+      "address": "Mumbai, India",
+      "contact": "ayesha.khan@example.com",
+      "interests": "Flutter, Firebase"
+    },
+    {
+      "id": 5,
+      "name": "David Lin",
+      "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+      "description": "DevOps Engineer",
+      "address": "London, UK",
+      "contact": "david.lin@example.com",
+      "interests": "Docker, AWS"
+    }
+  ]
+}
